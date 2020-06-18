@@ -12,13 +12,17 @@ h2 {
 	font-size: 20px;
 }
 
+br {
+	height: 2rem;
+}
+
 .col-sm-12, .col-md-12, .col-lg-6, .col-xl-6 {
 	padding-left: 0px;
 	padding-right: 0px;
 }
 
 .hoofd-kop {
-	padding: 6rem 0px 2rem 2rem;
+	padding: 6rem 0rem 2rem 2rem;
 	text-align: left;
 }
 
@@ -32,13 +36,11 @@ h2 {
 
 .standaard-kolom {
 	background-color: white;
-	margin: 2rem 0rem 2rem 0rem;
 	color: #212529;
 }
 
 .kolom-groen {
 	background-color: #6F6E5C;
-	margin: 2rem 0rem 2rem 0rem;
 	color: white;
 }
 
